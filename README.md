@@ -2,12 +2,14 @@
 <p align="center">🔍 Menyelami dunia pemrosesan bahasa alami (NLP) menggunakan model transformers dari HuggingFace!</p>
 
 <div align="center">
+    <img src="https://img.shields.io/badge/Jupyter-FFAA00?style=for-the-badge&logo=Jupyter&logoColor=white">
     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
-    <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white">
-    <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
-    <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white">
-    <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black">
+    <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white">
+    <img src="https://img.shields.io/badge/Infinite_Learning-4B0082?style=for-the-badge&logo=book&logoColor=white">
+    <img src="https://img.shields.io/badge/Google_Drive-34A853?style=for-the-badge&logo=googledrive&logoColor=white">
+    <img src="https://img.shields.io/badge/NLP-FF5722?style=for-the-badge&logo=language&logoColor=white">
 </div>
+
 
 ---
 
