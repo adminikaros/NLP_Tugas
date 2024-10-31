@@ -61,27 +61,3 @@ Dari penggunaan berbagai model dalam library transformers, jelas bahwa teknologi
 Secara keseluruhan, penerapan model-model ini dalam praktik menunjukkan potensi besar dari AI untuk meningkatkan produktivitas, memudahkan akses informasi, dan membantu dalam pengambilan keputusan. Namun, penting untuk tetap mempertimbangkan aspek etis dan dampak sosial dari teknologi ini agar penggunaannya tetap bertanggung jawab.
 
 ---
-
-## 🔍 Topik yang Dipelajari
-
-### Regresi
-- Linear Regression
-- Ridge 
-- Lasso
-- ElasticNet
-
-### Klasifikasi
-- Logistic Regression
-- K-Nearest Neighbors
-- Support Vector Machine (SVM)
-
-### Clustering
-- K-Means Clustering
-- Agglomerative Clustering
-- DBSCAN (Density-based Spatial Clustering of Application with Noise)
-
----
-
-### 🎉 Bergabunglah dalam Perjalanan Pembelajaran Ini! 
-
-✨ Semoga informasi ini bermanfaat dan menginspirasi Anda dalam belajar lebih dalam tentang machine learning dan NLP! Mari kita eksplorasi lebih jauh dan wujudkan ide-ide inovatif bersama! 🌈🚀
